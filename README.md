@@ -4,7 +4,7 @@ Principais conceitos de Dart
 ## Motivação
 Construí um repo para servir de consulta no momento de pesquisar conceitos relacionados ao dart
 
-##Feature
+## Feature
 - Dart aceita os dados primitivos comuns em qualquer linguagem Strings,int, double, List, Set, Map
 - List em Dart aceita valores heterogêneos a contrário que ocorre em Swift e Javascript
 - Dart existe um tipo especial que e conhecido  dynamic.
