@@ -130,6 +130,7 @@ int Function(int a) sum(int b) {
   };
 }
 
+```
 ##
 
 - Em dart também é possível nomear parâmetro parecido com oque ocorre com Swift
